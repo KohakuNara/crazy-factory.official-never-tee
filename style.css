@@ -81,6 +81,10 @@ td{
     margin: auto;
 }
 
+.footer-img{
+    width: 150px;
+}
+
 .copy-light{
     color: #fff;
     font-size: 10px;
